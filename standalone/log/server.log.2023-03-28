@@ -1,0 +1,2 @@
+2023-03-28 11:05:52,086 WARN  [org.keycloak.events] (default task-2) type=LOGIN_ERROR, realmId=my-realm, clientId=admin-cli, userId=null, ipAddress=127.0.0.1, error=invalid_client_credentials, grant_type=password
+2023-03-28 14:31:02,862 WARN  [org.keycloak.events] (default task-34) type=REFRESH_TOKEN_ERROR, realmId=master, clientId=security-admin-console, userId=null, ipAddress=127.0.0.1, error=invalid_token, grant_type=refresh_token, client_auth_method=client-secret
